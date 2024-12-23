@@ -9,7 +9,7 @@ Creating iOS Apps
 
 ```
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,c,cpp,html,css,js,python,mysql" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=swift,apple,figma,c,cpp,html,css,js,python,mysql" alt="Skills">
 </p>
 
 ---
