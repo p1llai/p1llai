@@ -12,7 +12,7 @@ p1llai
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,figma,c,cpp,html,css,js,python,mysql" alt="Skills" width="60%">
+  <img src="https://skillicons.dev/icons?i=swift,apple,figma,python,mysql,c,cpp,html,css,js," alt="Skills" width="60%">
 </p>
 
 ---
